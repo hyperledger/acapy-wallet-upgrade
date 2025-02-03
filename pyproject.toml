@@ -20,7 +20,7 @@ repository = "https://github.com/hyperledger/aries-acapy-tools.git"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-aiosqlite = "~=0.17"
+aiosqlite = "~=0.21"
 aries-askar = "~=0.3"
 asyncpg = "~=0.22"
 base58 = "~=1.0"
